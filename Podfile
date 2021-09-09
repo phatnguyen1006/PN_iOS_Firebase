@@ -6,6 +6,7 @@ target 'FirebasePattern' do
   use_frameworks!
 
   # Pods for FirebasePattern
+  pod 'SwiftLint'
   pod 'Toast-Swift'
 	pod 'Firebase/Analytics'
   pod 'Firebase/Auth'
