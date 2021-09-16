@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>961525815466-7c69lj32bvn0jvtldamdlegbp7hk86ne.apps.googleusercontent.com</string>
+	<string>Swift_iOS_Pattern</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.961525815466-7c69lj32bvn0jvtldamdlegbp7hk86ne</string>
+	<string>Swift_iOS_Pattern</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDCAjrsyLj20Dzhj4NpRF0aqRx6w5d9gE0</string>
+	<string>Swift_iOS_Pattern</string>
 	<key>GCM_SENDER_ID</key>
 	<string>961525815466</string>
 	<key>PLIST_VERSION</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:961525815466:ios:73981633a82291223f58d3</string>
+	<string>Swift_iOS_Pattern</string>
 </dict>
 </plist>
