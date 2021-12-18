@@ -8,7 +8,7 @@ target 'FirebasePattern' do
   # Pods for FirebasePattern
   pod 'SwiftLint'
   pod 'Toast-Swift'
-	pod 'Firebase/Analytics'
+  pod 'Firebase/Analytics'
   pod 'Firebase/Auth'
   pod 'Firebase/Storage'
   pod 'Firebase/Database'
